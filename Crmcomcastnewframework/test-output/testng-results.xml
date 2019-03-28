@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78648" started-at="2019-03-21T03:07:43Z" finished-at="2019-03-21T03:09:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78648" started-at="2019-03-21T03:07:43Z" finished-at="2019-03-21T03:09:02Z">
+      <class name="com.comcastnew.createpo.CreatePurchaseorder">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:com.comcastnew.createpo.CreatePurchaseorder@1b604f19]" name="configBc" is-config="true" duration-ms="15406" started-at="2019-03-21T08:37:43Z" finished-at="2019-03-21T08:37:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBm()[pri:0, instance:com.comcastnew.createpo.CreatePurchaseorder@1b604f19]" name="configBm" is-config="true" duration-ms="34312" started-at="2019-03-21T08:37:59Z" finished-at="2019-03-21T08:38:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBm -->
+        <test-method status="PASS" signature="creatPurchaseorder()[pri:0, instance:com.comcastnew.createpo.CreatePurchaseorder@1b604f19]" name="creatPurchaseorder" duration-ms="28904" started-at="2019-03-21T08:38:33Z" finished-at="2019-03-21T08:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatPurchaseorder -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.comcastnew.createpo.CreatePurchaseorder@1b604f19]" name="configAm" is-config="true" duration-ms="0" started-at="2019-03-21T08:39:02Z" finished-at="2019-03-21T08:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+      </class> <!-- com.comcastnew.createpo.CreatePurchaseorder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
